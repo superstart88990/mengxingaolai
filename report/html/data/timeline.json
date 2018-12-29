@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "fenghuangguzhen",
+    "children" : [ {
+      "name" : "10360-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login[13488834010-159357li-1-None-None]",
+        "uid" : "249179ee77e50d9a",
+        "parentUid" : "435690312a2d731611daf787834a0de5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1546012330017,
+          "stop" : 1546012412572,
+          "duration" : 82555
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "435690312a2d731611daf787834a0de5"
+    } ],
+    "uid" : "243a5fbed912ea330259b90e0d86c3b4"
+  } ]
+}
